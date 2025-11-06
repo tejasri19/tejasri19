@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tejasri N pursued a PhD in AI for Agriculture at IIT Hyderabad @tejasri19
+- 👋 Hi, I’m Tejasri N pursued a PhD in AI for Agriculture at IIT Hyderabad 
 - 👀 I’m interested in Machine learning, Crop Phenotyping, Remote based Sensing, Knowledge Commons.
 - 🌱 I’m currently applying ML & DL for Crop Analytics, UAV based Data processing.
 - 📫 Reach me at @tejasrinampally19@gmail.com
